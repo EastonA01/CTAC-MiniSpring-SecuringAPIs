@@ -1,2 +1,5 @@
-package org.example.ctacminispringsecuringapis.model;public class Roles {
+package org.example.ctacminispringsecuringapis.model;
+
+public enum Roles {
+    USER, ADMIN
 }
